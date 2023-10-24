@@ -95,4 +95,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 226ede0e5d0b79a4786441f35a9cb806, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  birds: []
+  Speed: 0.03
+  Turn_Speed_Wall: 0.02
+  Turn_Speed_Birds: 0.3
